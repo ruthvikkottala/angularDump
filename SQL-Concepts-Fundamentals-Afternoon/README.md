@@ -1,1 +1,0 @@
-# SQL-Concepts-Fundamentals-Afternoon
